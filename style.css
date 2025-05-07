@@ -1,0 +1,16 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(105, 170, 148);
+    height: 500px;
+}
+button{
+    background-color: aquamarine;
+    color: black;
+    padding: 1.4% 2%;
+    border: none;
+    box-shadow: black 2px 2px 2px ;
+    border-radius: 15px;
+}
