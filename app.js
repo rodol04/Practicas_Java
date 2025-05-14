@@ -20,6 +20,7 @@ if(Condicion){
 }
 */
 
+/*
 let salir = confirm("Estas segura que queres salir?")
 
 if(salir == true){
@@ -40,6 +41,10 @@ let edad = prompt ("¿Cual es tu edad?")
 function  alertaClick(){
     alert("Hola "+nombre+" "+apellido+" de edad: "+edad+". Bienvenido")
 }
+
+*/
+
+
 
 
 
